@@ -1,6 +1,6 @@
 :root {
-  --mainColor: #606B56;
-  --secondaryColor:#515148;
+  --mainColor: #606b56;
+  --secondaryColor: #515148;
 
   --borderColor: #161914;
 
@@ -12,4 +12,8 @@
   --previewShadow: #2a2f25;
 
   --buttonColor: #669966;
+}
+#social-img {
+  opacity: 0.5;
+  border-radius: 15px;
 }

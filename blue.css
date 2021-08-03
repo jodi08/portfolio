@@ -2,7 +2,7 @@
   --mainColor: #15202b;
   --secondaryColor: #192734;
 
-  --borderColor: #164D56;
+  --borderColor: #164d56;
 
   --mainText: #fff;
   --secondaryText: #eeeeee;
@@ -11,5 +11,9 @@
   --previewBg: rgba(29, 39, 52, 0.8);
   --previewShadow: #111921;
 
-  --buttonColor:#17a2b8;
+  --buttonColor: #17a2b8;
+}
+#social-img {
+  opacity: 0.5;
+  border-radius: 15px;
 }
